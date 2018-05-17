@@ -26,7 +26,18 @@
 |A2        | F      |54     |
 |A3        | F      | 3     |
 ## 代码框
+### 行内代码
 `python
 shell
 Rscript`
+### 块代码
+	python
+	shell
+	Rscript
+### Fenced Code Block
+```
+python
+shell
+Rscript
+```
 
