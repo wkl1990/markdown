@@ -14,4 +14,4 @@
 > Markdown是一种轻量级的【标记语言】
 ## 链接和图片
 [Markdown入门指南](https://www.jianshu.com/p/1e402922ee32/)
-![我的自画像](https://cl.ly/1C371n0C2131)
+![我的自画像](http://f.cl.ly/items/2W0R401Y2p2q1K1g3l06/5070_1280x1024.jpg)
